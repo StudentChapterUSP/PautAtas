@@ -1,6 +1,4 @@
 * 20 09 2018
-
-
 ** Círculos matemáticos
 
 *** Arrecadação de fundos para multi-plano ou geo-plano
@@ -34,7 +32,6 @@
 *** Este sábado em particular
     - Continuar com os problemas da semana anterior (problemas 20, 1, 6, 21 e (talvez) o 3) do Fomin
 
-
 ** Cineclube
  - [ ] Decidir data (esta semana não dá, mas pode ser na próxima ou na propróxima)
 
@@ -42,3 +39,27 @@
    - Decidir metas (por exemplo, todos lermos o capítulo n até a próxima semana)
    - Quem tiver dúvida ou questão sobre uma parte do material é aconselhado(a) a 
      postar sobre essa dúvida no grupo antes do encontro
+
+
+* 25 02 2019
+** Presença:
+   
+** Volta às aulas, precisamos resolver do ano passado:
+*** Matemática para cegos (Helen)
+**** Precisamos:
+***** Adquirir o objeto;
+***** Achar a professora;
+***** Divulgar (um blog post e algo para o ICMC)
+*** Organização dos jabutis matemáticos
+**** Nome (vai ser esse mesmo?)
+**** Todo mundo leu/viu o material?
+**** Programa a ser usado (tem que ver qual funciona)
+**** Voltamos depois do carnaval (?)
+*** Novos projetos (?) - bom para chamar novos membros e melhorar motivação dos membros
+**** Sugestões:
+***** Lidar com empresas (Dino ?)
+***** Minicurso de programação funcional em Scheme
+** Cineclube
+*** Depois do carnaval (?)
+*** Sugestão de método de escolha do filme: poll no telegram
+
