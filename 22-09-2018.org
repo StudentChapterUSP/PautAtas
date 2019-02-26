@@ -1,4 +1,11 @@
 * 20 09 2018
+** Presença:
+*** Jaramillo
+*** Éricles
+*** Helen
+*** João Paulo
+*** Rafael da Bio
+*** Rafael do Go
 ** Círculos matemáticos
 
 *** Arrecadação de fundos para multi-plano ou geo-plano
@@ -39,3 +46,4 @@
    - Decidir metas (por exemplo, todos lermos o capítulo n até a próxima semana)
    - Quem tiver dúvida ou questão sobre uma parte do material é aconselhado(a) a 
      postar sobre essa dúvida no grupo antes do encontro
+

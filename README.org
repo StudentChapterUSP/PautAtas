@@ -1,1 +1,6 @@
 * A Pauta/Ata da reunião do dia x pode ser encontrada no arquivo x.org
+* Símbolos tais como
+ - [ ] Tarefa
+indicam que Tarefa está para ser realizada e símbolos tais como
+ - [X] Tarefa
+indicam que Tarefa foi realizada.
