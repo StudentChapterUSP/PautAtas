@@ -1,0 +1,37 @@
+* 25 02 2019
+** Presentes:
+*** Jaramillo
+*** Helen
+*** Ueno
+*** Allan Hatsunoma
+*** João Paulo
+*** Éricles
+** Volta às aulas, precisamos resolver do ano passado:
+*** Matemática para cegos (Multiplano, Helen)
+**** Precisamos:
+     - [X] Adquirir o objeto
+     - [ ] (Éricles) Passar 7 reais para a Helen
+     - [ ] Achar a professora;
+     - [ ] Divulgar (um blog post e algo para o ICMC)
+*** Organização dos jabutis matemáticos
+**** Nome (vai ser esse mesmo?)
+***** Node decidido é "DesTarDes": Desenhando Tartarugas Desenhistas -
+****** Motivação: O nome faz referência à atividade de programação e ao ícone de LOGO por meio de uma sigla
+***** Obs.: Não falar do nome para os jovens a princípio
+**** Todo mundo leu/viu o material?
+***** O pessoal não leu, no geral, mas alguns viram os vídeos
+***** Ficou decidido que nesta quarta Éricles apresenta cap. 1 um 2 do livro 
+***** no dia 13 o Jaramillo o cap. 3
+**** Programa a ser usado (tem que ver qual funciona) 9:30
+***** Decidido ir à escola às 9:30 de sexta checar isso
+**** Voltamos depois do carnaval (?)
+***** Voltamos dia 13
+**** Tentar pôr no projeto o Rogério DesTarDes, o Leo, o Kelvin e falar com Suely sobre membros
+*** Novos projetos (?) - bom para chamar novos membros e melhorar motivação dos membros
+**** Sugestões:
+***** Lidar com empresas (Dino ?)
+***** Minicurso de programação funcional em Scheme
+***** Círculos Matemáticos, o Retorno (Helen e João, a princípio)
+** Cineclube
+*** Próximo depois do carnaval, dia 8 de março
+*** Sugestão de método de escolha do filme: poll no telegram
