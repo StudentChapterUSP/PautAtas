@@ -1,0 +1,198 @@
+* 27-02-2019
+** Presença:
+*** Jaramillo
+*** João Paulo
+*** João Vitor
+*** Helen
+*** Éricles
+* Resumo capítulos 1 e 2, Mindstorms
+** Foreword
+*** Introdução ao construcionismo:
+    - Exemplo das engrenagens para trazer conhecimento antigo para novos contextos
+    - eram parte da "paisagem natural", eram parte do "mundo dos adultos" e usa-se o corpo para usá-las
+    - ênfase no aspecto emocional do aprendizado
+  - As "leis do aprendizado" devem ser sobre como estruturas intelectuais crescem de outras e como 
+    elas adquirem forma lógica e emocionalidade
+  - O livro é "um exercício em epistemologia genética aplicada"
+  - A ideia é desenvolver uma perspectiva na qual condições nas quais modelos intelectuais se enraízem
+  - A ideia não é dar engrenagens para as crianças
+    - Mas o que engrenagens não podem fazer, computadores podem
+** Introdução
+  - Como computadores podem contribuir para processos mentais, não só instrumentalmente, mas conceptualmente
+    - como eles podem carregar ideias poderosas e serem as sementes de mudanças culturais
+    - e formar novas relações com o conhecimento
+  - O computador ensinar a criança X a criança ensinar o computador
+  - Criança, a Construtora:
+    - o conhecimento é construído
+    - para construir, precisa-se de blocos de construção e motivação para usá-los
+    - um ponto chave é a pobreza em vários blocos de construção para matemática e a desmotivação
+      para usá-los
+  - a "mathophobia" endêmica impede muitos de aprender coisas reconhecidas como matemática, apesar 
+    de não terem problemas com conhecimentos matemáticos não percebidos como tal
+  - Dificuldade com matemática da escola é parte de um processo de definição da pessoa como
+    - "matemática" e "não-matemática", "artística" ou "não artística", "musical" ou "não musical",
+      "inteligente" ou "burro"
+  - Em contrapartida, dois temas principais permeam o livro
+    - que crianças podem aprender a usar computadores maestralmente
+    - que aprender a usar computadores pode mudar como aprendem todo o resto
+  - "não se pode pensar seriamente sobre penser sem pensar sobre pensar algo"
+** Computadores e Culturas de Computador
+***  A "tartaruga" faz parte da mini-cultura do ambiente LOGO
+    - tem o propósito de ser bom para programar e ser bom para pensar sobre
+    - algumas tartarugas são objetos abstratos, outras são físicos
+***  Em LOGO, a criança ensina o computador, e não o contrário
+***  Ao fazer isso, elas exploram como elas mesmas pensam:
+    - "pensar sobre pensar" torna a criança numa epistemologista
+***  As explorações que uma criança faz são baseadas nos elementos encontrados em sua cultura
+    - assim, por exemplo, "contar" é desenvolvido cedo: existem muitos elementos culturais
+      que auxiliam isso
+      e aprendem a extender o que aprende aí a outros domínios (como em "contar" 
+      quantidades de líquidos, por exemplo) 
+    - por outro lado, habilidades com permutações e combinações são aprendidas muito mais tarde
+      frequentemente, precisando de uma educação formal (na escola)
+    - Pensamento combinatorial e de permutações é algo que requer um modelo de procedimento 
+      sistemático, algo em que nossa sociedade é pobre
+    - Um argumento é de que essas discrepâncias se dão devido à pobreza de alguns "materiais"
+      e riqueza em outros
+  - Ao adicionar programação ao aprendizado, ele se torna mais ativo e auto-direcionado
+    o conhecimento se torna uma fonte de poder e de propósito pessoal
+    - Esses devem ser princípios guia. A ideia é usar o computador como um meio matematicamente
+      expressivo, que nos liberta para lidar com tópicos matemáticos pessoalmente significantes,
+      intelectualmente coerentes e que podem ser facilmente aprendidos.
+*** Muitas crianças têm dificuldade em avançar no aprendizado porque usam um modelo de aprendizado
+    em que se está "certo" ou "errado"
+    - Em programação, quase nunca se acerta na primeira vez.
+      Aprender a programar significa ter habilidade em encontrar e resolver "bugs", ie, 
+      lidar com o "erro"
+      - A questão a se fazer sobre um programa não é se está "certo" ou "errado", mas se
+       "dá para melhorar?"
+*** O computador é algo, em algum sentido, mecânico, e lidar com ele pode ajudar a criança a
+    articular o que é "pensamento mecânico", aumentando sua sofisticação intelectual e a ajudando
+    a "pensar sobre o pensar": existe mais de um estilo de pensamento
+    - A sociedade não tem muito espaço para "pensar sobre pensar", e o ambiente da tartaruga ajuda
+      nisso:
+      mesmo o programa LOGO mais simples pode trazer oportunidades para aprimorar esse lado
+      - Programar a tartaruga começa ao fazer refletir como a pessoa pode fazer o que quer que a
+        tartaruga faça 
+        Faz com que a criança reflita sobre suas próprias ações e modo de pensamento
+*** Atualmente, computadores são mais usados como video-game ou como "máquinas de ensinar" 
+   - Mesmo quando pais ou instrutores buscam ensiná-las a fazer programas simples (como em BASIC,
+     o autor cita), raramente isso está acompanhado pelo tipo de reflexão epistemológica como visto
+     em LOGO
+   - O aprendizado com LOGO foi pensado para auxiliar no "aprendizado piagetiano", que funciona
+     sem currículo
+     - o que implica em ajudar a criança a construir suas próprias estruturas intelectuais com
+       materiais retirados da cultura subjacente
+     - nesse modelo, intervenção educacional significa mudar a cultura, plantando novos elementos
+       construtivos nela e eliminar elementos nocivos
+     - é efetivo, barato e humano.
+*** "O educador deve ser um entropólogo"
+   - E deve trabalhar para entender quais materiais culturais são relevantes para o desenvolvimento
+     intelectual
+   - Então, ele ou ela deve entender o que é tendência na cultura:
+     - intervenção significativa deve ser trabalhada junto a essas tendências
+*** O fenômeno QWERTY
+   - O arranjo QWERTY tem uma motivação puramente histórica
+     - sua justificação ilustra um processo de construção de mito que nos permite justificar a
+       primitividade em qualquer sistema
+   - Existe também um "fenômeno QWERTY" na escolha da linguage de programação a ser aprendida
+     - assim como na linguagem natural, a linguagem de computador escolhida "colore" fortemente
+       a cultura computacional.
+       É de se esperar que educadores fossem prestar atenção a isso, mas não é o que ocorre 
+       (vide BASIC)
+*** Mathophobia e o medo de aprender
+*** "Let only geometers enter"
+   - "Humanistas" podem achar questionável que uma "tecnologia" pode mudar suposições sobre que
+     tipo de conhecimento é relevante para seu ou sua perspectiva de entendimento de pessoas
+   - "Cientistas", por outro lado, podem considerar a diluição do rigo como uma ameaçadora invasão de
+     pensamento humanista
+   - Contudo, Papert argumenta, a presença do computador pode plantar sementes que podem culminar
+     em uma cultura epistemológica menos dissociada
+*** Uma das ideias do livro é mostrar como construir junto às crianças uma relação mais humana
+     com a matemática
+   - Não é incomum que adultos inteligentes se tornem observadores passivos de sua própria 
+     incompetência na matemática, exceto, talvez, a mais rudimentar
+   - Para facilitar uma ideia de "movimento entre as áreas", o autor cria a imagem de "Matelândia"
+     (de Mathland), um lugar onde matemática se torna um vocabulário natural
+*** "mathophobia" pode ter duas interpretações:
+     - uma é medo de matemática, que frequentemente se torna forte como uma fobia de fato
+     - a outra vem da etimologia de "matemática" ("matema" vem do grego "conhecimento", "estudo")
+       Medo de aprender não é menos endêmico que o de matemática
+       Crianças começam a vida como aprendizes competentes e ávidos, mas aprendem a ter problemas
+       com aprendizado no geral, e matemática em particular.
+     - Uma grande proporção da população desistiu do aprendizado quase completamente. 
+       Essas pessoas não se veem como competentes nisso de aprender e menos ainda gostam de fazer 
+       isso.
+       O custo social e pessoal é enorme.
+     - Muitas outras pessoas não desistiram de aprendre mas são gravemente limitadas por suas 
+       crenças negativas sobre suas capacidades: "eu não posso aprender francês, não sou bom com
+       línguas"; "não posso fazer skate, nunca tive coordenação para isso"
+     - Essas crenças são frequentemente repetidas de forma ritual, como superstições e, como tais,
+       criam mundos de tabus
+     - Papert discute experimentos que evidenciam que esse tipo de crença correspondem a imagens
+       de uma realidade muito limitada e que, em um ambiente educacional com suporte emocional e
+       intelectual apropriados, a "pessoa sem coordenação" pode aprender artes circenses e a que
+       "não tem cabeça para números" pode não só fazer matemática, mas gostar disso
+     - Em nossa cultura, tudo "está pronto" para as pessoas atribuirem sua primeira experiência
+       sem sucesso para sua disabilidade, no que resulta que crianças se definem em termos de suas
+       limitações, o que é consolidado e enforçado pelo resto da vida em um loop de feedback negativo
+*** Como estruturas de conhecimento são tomadas como garantidas por adultos, várias formas
+   de aprendizado em crianças ficam invisíveis
+       - isso é visto claramente em "conservações piagetianas":
+	 - conervação de volume;
+	 - de números (separação entre "número" e "processo de contagem");
+	 - mais em geral, propriedades que são das coisas, no lugar de dos processos de realizá-las
+       - Aquele "loop de feedback negativo" é suportado por procedimentos científicos: afinal,
+	 aptidões são mensuradas. Mas a significancia do que é mensurado é questionado seriamente
+	 pelo experimento mental de imaginar a Matelândia.
+       - Existe um paralelo entre como busca-se fazer aprimorações no ensino hoje e como alguém
+	 poderia buscar melhorar meios de transporte no século 19, melhorando carruagens
+       - Os paradigmas de pesquisa educacional atuais tomam o modelo de aula atual como objetos
+	 des estudo primário e a visão prevalente é de que "boa" pedagogia deve tomar como ponto
+	 de início essas formas pobres de pensamento, tendendo a preservar o sistema tradicional,
+	 de forma análoga a "aprimorar o eixo da carruagem" em uma era de carros
+       - E essas crenças estão institucionalizadas, tornando a base social tal como a científica,
+	 fraca.
+*** Caso 1:
+   - Jim era uma criança altamente verbal e mathofóbica de uma família profissional. Seu amor 
+     por palavras se mostrou muito cedo, antes da escola. A mathofobia se desenvolveu na escola.
+     Isso lhe trouxe vários problemas, em casa e na escola. O problema real ocorria nas aulas de 
+     aritmética: ele, desde cedo, tinha o hábito de descrever (em palavras) o que fazia, 
+     não tinha um vocabulário para falar aritmética e um propósito nisso.
+   - Uma resposta a isso é a sugestão de mobilizar as múltiplas forças da criança
+     para servir a todos os domínos de atividade intelectual
+*** "Adult double talk"
+   - Crianças sentem que os adultos são desonestos quando dizem que devem
+     aprender matemática para poder contar o troco, por exemplo
+   - Sentem o mesmo quando são ditas que matemática é divertida por alguém
+     que faz qualquer coisa no tempo livre menos se divertir com matemática
+   - Esse assunto deve ser tratado por pessoas que gostam disso
+*** Princípios matéticos
+   - de continuidade
+     - o que é adicionado é sempre em conexão ao que já estava antes
+   - de poder
+     - a criança faz o que quiser e, o que ela aprende, a empodera
+   - de resonância cultural
+     - a tartaruga é apropriável
+*** "Poesia Computacional"
+#+BEGIN_SRC scheme
+  (define (sentence) (append (noun-phrase) (verb-phrase)))
+  (define (noun-phrase) (append (Article) (Noun)))
+  (define (verb-phrase) (append (Verb) (noun-phrase)))
+  (define (Article) (one-of '(the a)))
+  (define (Noun) (one-of '(man ball woman table turtle )))
+  (define (Verb) (one-of '(hit took saw liked kick fold touch)))
+
+  (define (one-of set)
+    (list (random-elt set)))
+
+  (define (nth l n)
+    (cond
+      ((null? l) '())
+      ((eq? n 1) (car l))
+      (else
+       (nth (cdr l) (- n 1)))))
+
+  (define (random-elt choices)
+    (nth choices (+ (random (length choices)) 1)))
+#+END_SRC
