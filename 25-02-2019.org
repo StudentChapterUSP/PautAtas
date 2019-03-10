@@ -11,7 +11,7 @@
 **** Precisamos:
      - [X] Adquirir o objeto
      - [ ] (Éricles) Passar 7 reais para a Helen
-     - [ ] Achar a professora;
+     - [X] Achar a professora;
      - [ ] Divulgar (um blog post e algo para o ICMC)
 *** Organização dos jabutis matemáticos
 **** Nome (vai ser esse mesmo?)
