@@ -1,29 +1,43 @@
 * 13 03 2019
 ** Presentes:
-
+   - Joao Paulo
+   - Jaramillo (19:13)
+   - Yuka Ueno
+   - Ericles
 ** Ausentes:
-
+   - Felipe (Dino) (segunda)
+   - Joao Vitor (primeira)
 ** Seminario Mindstorms - Cap. 3, Jaramillo (que cedeu 10 minutos)
+   - Helen apresentou este
+   - Jaramillo apresenta cap. 4 na proxima
 ** Matemática para cegos
    - Checar recursos no LEM
-   - Quais se habilitam ir a entregar o multiplano e fazer o trabalho?
+   - Quais se habilitam ir a entregar o multiplano e fazer o trabalho? 
+     - Todos, aparentemente
 ** Organização dos DesTarDes
 *** Com problemas no projeto escola da familia na Ludgero, podemos (temos que decidir entre)
     - [ ] Esperar para saber o que vai acontecer (pode levar mais de 30 dias para isso);
     - [ ] Ir a outra escola, em que o projeto funcione;
     - [ ] Continuar na Ludgero, mas ir em dia de semana;
-    - [ ] Outra ideia (?)
+    - [X] Outra ideia (?) - esperar 3 semanas
 *** Programa a ser usado
     - FMSLogo (windows) ou kturtle (linux, com kde) ou algum outro
 ** Novos projetos (?) - bom para chamar novos membros e melhorar motivação dos membros
 *** Sugestões:
-    - Lidar com empresas (Dino ?)
     - Minicurso de programação funcional em Scheme
+      - vai ter (tem que ser melhor organizado)
+    - Mandar e-mail com forms para decidir que minicurso fazer
+      - Helen ficou de organizar isso
 *** Círculos Matemáticos, o Retorno (Helen e João, a princípio)
     - Como vai ser?
+      - Esquemos de falar sobre isso :p
 ** Cineclube
    - Esta sexta, Good Will Hunting;
    - Na seguinte (em duas semanas), Agora (Alexandria); 
    - Podem continuar a sugerir filmes para o outro cineclube (não esperar a semana do filme chegar para sugerir)
 ** Novo(s) membro(s) (?)
    - bem vindos :) 
+
+
+* Notas:
+  - ao falar sobre graus, comecar com 90
