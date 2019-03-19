@@ -1,0 +1,27 @@
+* 20 03 2019
+** Presentes:
+
+** Ausentes:
+
+** Seminario Mindstorms - Cap. 3 e 4, Jaramillo
+
+** Matemática para cegos
+   - Precisamos treinar.
+
+** Organização dos DesTarDes
+*** Programa a ser usado - de preferencia, que rode no windows
+    - FMSLogo (?)
+** Novos projetos (?) - bom para chamar novos membros e melhorar motivação dos membros
+*** Sugestões:
+    - Minicurso de programação funcional em Scheme
+      - proposta de cronograma
+
+*** Círculos Matemáticos, o Retorno (Helen e João, a princípio)
+    - Como vai ser?
+      - Esquemos de falar sobre isso :p
+
+** Cineclube
+   - Sexta que vem, Agora (Alexandria); 
+   - Podem continuar a sugerir filmes para o outro cineclube (não esperar a semana do filme chegar para sugerir)
+** Novo(s) membro(s) (?)
+   - bem vindos :)
