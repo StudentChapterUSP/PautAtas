@@ -1,17 +1,13 @@
-* 20 03 2019
+* 27 03 2019
 ** Presentes:
-   - Helen
-   - Yuka
-   - Joao
-   - Jaramillo
-   - Ericles
+
 ** Ausentes:
-   - Felipe (dino) (3 faltas)
-   - Pataca (2 faltas)
-** Seminario Mindstorms - Cap. 3 e 4, Jaramillo
-   - apresentou parte do cap. 4, deve continuar na proxima reuniao
+
+** Seminario Mindstorms - fim do cap. 4, Jaramillo
 ** Matemática para cegos
-   - Precisamos treinar.
+   - multiplano entregue;
+   - precisamos voltar na escola depois da paralizacao;
+   - precisamos escrever um blog-post sobre o processo;
 ** Organização dos DesTarDes
 *** Programa a ser usado - de preferencia, que rode no windows
     - FMSLogo (?)
@@ -23,7 +19,7 @@
     - Como vai ser?
       - Esquemos de falar sobre isso :p
 ** Cineclube
-   - Sexta que vem, Agora (Alexandria); 
+   - Esta sexta, Agora (Alexandria); 
    - Podem continuar a sugerir filmes para o outro cineclube (não esperar a semana do filme chegar para sugerir)
 ** Novo(s) membro(s) (?)
    - bem vindos :)
