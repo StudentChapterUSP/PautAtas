@@ -1,16 +1,22 @@
 * 27 03 2019
 ** Presentes:
-
+   - Jaramillo
+   - Hellen
+   - Joao Paulo
+   - Fernanda Ueno
+   - Ericles
+   - Gabriel (Biki)
 ** Ausentes:
-
+   - Joao Pataca (terceira ausencia)
 ** Seminario Mindstorms - fim do cap. 4, Jaramillo
+   - Joao apresenta o proximo (ficou de apresentar 5 e 6)
 ** Matemática para cegos
    - multiplano entregue;
    - precisamos voltar na escola depois da paralizacao;
    - precisamos escrever um blog-post sobre o processo;
 ** Organização dos DesTarDes
 *** Programa a ser usado - de preferencia, que rode no windows
-    - FMSLogo (?)
+    - FMSLogo
 ** Novos projetos (?) - bom para chamar novos membros e melhorar motivação dos membros
 *** Sugestões:
     - Minicurso de programação funcional em Scheme
