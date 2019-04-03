@@ -1,20 +1,25 @@
 * 03 04 2019
 ** Presentes:
-
+   - Ericles
+   - Joao
+   - Helen
+   - Fernanda
+   - Ramon
 ** Ausentes:
 
 ** Seminario Mindstorms - capitulo 5, Joao
-
+   - Terminou caps. 5 e 6
 ** Matemática para cegos: quando vamos?
-
+   - Ver se podemos ir sexta
 ** Organização dos DesTarDes
-
+   - Precisamos definir escola:
+     - Possibilidade: Orlando Perez
+     - E-mail para secretaria de ensino pedindo escolas
 ** Novos projetos (?) - bom para chamar novos membros e melhorar motivação dos membros
 *** Sugestões:
     - Minicurso de programação funcional em Scheme
       - proposta de cronograma
     - Divulgacao
 ** Cineclube - sexta que vem, que filme?
-
 ** Novo(s) membro(s) (?)
-
+   :)
